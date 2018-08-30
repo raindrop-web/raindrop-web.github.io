@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Theme2 on raindrop</title>
-    <link>/tags/theme2/</link>
+    <link>https://raindrop-web.github.io/tags/theme2/</link>
     <description>Recent content in Theme2 on raindrop</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 24 Aug 2017 13:50:46 +0200</lastBuildDate>
     
-	<atom:link href="/tags/theme2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://raindrop-web.github.io/tags/theme2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>국림중앙 도서관 품질관리프로그램 </title>
-      <link>/blog/creating-a-new-theme2/</link>
+      <link>https://raindrop-web.github.io/blog/creating-a-new-theme2/</link>
       <pubDate>Thu, 24 Aug 2017 13:50:46 +0200</pubDate>
       
-      <guid>/blog/creating-a-new-theme2/</guid>
+      <guid>https://raindrop-web.github.io/blog/creating-a-new-theme2/</guid>
       <description> 프로젝트 설명  국립 중앙 도서관등 도서 전산화 사업을 납품하는 곳에 품질 관리 하는 시스템 개발  개발 기간  2017년 5월 ~ 2017년 9월  개발 환경 및 사용기술  - .Net Framework - WPF - Firebird  개발 내용  - 이미지 작업 - 서버 통계 - 보고서 출력 - 실시간 모니터링  </description>
     </item>
     
     <item>
       <title>국림중앙 도서관 품질관리프로그램 </title>
-      <link>/portfolio/creating-a-new-theme2/</link>
+      <link>https://raindrop-web.github.io/portfolio/creating-a-new-theme2/</link>
       <pubDate>Thu, 24 Aug 2017 13:50:46 +0200</pubDate>
       
-      <guid>/portfolio/creating-a-new-theme2/</guid>
+      <guid>https://raindrop-web.github.io/portfolio/creating-a-new-theme2/</guid>
       <description> 프로젝트 설명  국립 중앙 도서관등 도서 전산화 사업을 납품하는 곳에 품질 관리 하는 시스템 개발  개발 기간  2017년 5월 ~ 2017년 9월  개발 환경 및 사용기술  - .Net Framework - WPF - Firebird  개발 내용  - 이미지 작업 - 서버 통계 - 보고서 출력 - 실시간 모니터링  </description>
     </item>
     
