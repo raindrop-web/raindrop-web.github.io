@@ -6,17 +6,48 @@
     <description>Recent content in Ipsum on raindrop</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2015 13:07:31 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 24 Aug 2018 13:50:46 +0200</lastBuildDate>
     
 	<atom:link href="https://raindrop-web.github.io/tags/ipsum/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Migrate from Jekyll</title>
-      <link>https://raindrop-web.github.io/blog/migrate-from-jekyll/</link>
-      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      <title>Webzen Mobile SDK</title>
+      <link>https://raindrop-web.github.io/portfolio/content_7/</link>
+      <pubDate>Fri, 24 Aug 2018 13:50:46 +0200</pubDate>
       
-      <guid>https://raindrop-web.github.io/blog/migrate-from-jekyll/</guid>
+      <guid>https://raindrop-web.github.io/portfolio/content_7/</guid>
+      <description>웹젠 모바일 SDK 환경 : iOS, Android 기술 : Mobile용 SDK 고객 : Webzen  Webzen Mobile 게임(뮤오리진, 샷온라인 등)에 들어가는 모바일용 SDK 자체 개발 1. 로그인 2. 결제 3. 푸시알림 4. webzen 내부 API연동 등 수십만 유저가 활동하는 모바일 게임의 사용자 관리 , 결제등의 서비스를 100% 개발 함  ** SDK의 기능을 사용한 앱과 게임</description>
+    </item>
+    
+    <item>
+      <title>Crazy Beat - iOS/Andorid Game</title>
+      <link>https://raindrop-web.github.io/portfolio/content_9/</link>
+      <pubDate>Wed, 24 Aug 2016 13:50:46 +0200</pubDate>
+      
+      <guid>https://raindrop-web.github.io/portfolio/content_9/</guid>
+      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
+▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
+▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    
+    <item>
+      <title>Give And Take App</title>
+      <link>https://raindrop-web.github.io/portfolio/content_6_migrate-from-jekyll/</link>
+      <pubDate>Wed, 24 Aug 2016 13:50:46 +0200</pubDate>
+      
+      <guid>https://raindrop-web.github.io/portfolio/content_6_migrate-from-jekyll/</guid>
+      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
+▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
+▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    
+    <item>
+      <title>The Iron Fists - iOS/Android Game</title>
+      <link>https://raindrop-web.github.io/portfolio/content_8/</link>
+      <pubDate>Wed, 24 Aug 2016 13:50:46 +0200</pubDate>
+      
+      <guid>https://raindrop-web.github.io/portfolio/content_8/</guid>
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
@@ -24,10 +55,21 @@
     
     <item>
       <title>Migrate from Jekyll</title>
-      <link>https://raindrop-web.github.io/portfolio/migrate-from-jekyll/</link>
+      <link>https://raindrop-web.github.io/_portfolio/migrate-from-jekyll/</link>
       <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
       
-      <guid>https://raindrop-web.github.io/portfolio/migrate-from-jekyll/</guid>
+      <guid>https://raindrop-web.github.io/_portfolio/migrate-from-jekyll/</guid>
+      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
+▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
+▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    
+    <item>
+      <title>Migrate from Jekyll</title>
+      <link>https://raindrop-web.github.io/blog/content_6_migrate-from-jekyll/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      
+      <guid>https://raindrop-web.github.io/blog/content_6_migrate-from-jekyll/</guid>
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
