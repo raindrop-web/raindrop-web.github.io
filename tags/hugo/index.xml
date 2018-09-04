@@ -6,24 +6,10 @@
     <description>Recent content in Hugo on raindrop</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Aug 2017 13:50:46 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2015 21:49:20 +0200</lastBuildDate>
     
 	<atom:link href="https://raindrop-web.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>관공서 도서 전산화 및 이미지 보정</title>
-      <link>https://raindrop-web.github.io/portfolio/content_4_hugo-is-for-lovers/</link>
-      <pubDate>Thu, 24 Aug 2017 13:50:46 +0200</pubDate>
-      
-      <guid>https://raindrop-web.github.io/portfolio/content_4_hugo-is-for-lovers/</guid>
-      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
-Save it somewhere specific as we will be using it in the next step.
-More complete instructions are available at installing hugo
-Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
-Follow the following steps:
- Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
-    </item>
     
     <item>
       <title>Linked post</title>

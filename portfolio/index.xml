@@ -41,21 +41,7 @@
     </item>
     
     <item>
-      <title>관공서 도서 전산화 및 이미지 보정</title>
-      <link>https://raindrop-web.github.io/portfolio/content_4_hugo-is-for-lovers/</link>
-      <pubDate>Thu, 24 Aug 2017 13:50:46 +0200</pubDate>
-      
-      <guid>https://raindrop-web.github.io/portfolio/content_4_hugo-is-for-lovers/</guid>
-      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
-Save it somewhere specific as we will be using it in the next step.
-More complete instructions are available at installing hugo
-Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
-Follow the following steps:
- Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
-    </item>
-    
-    <item>
-      <title>도서 전산화 품질관리</title>
+      <title>도서 전산화 품질관리 / 관공서 문서 전산화 시스템</title>
       <link>https://raindrop-web.github.io/portfolio/content_2_creating-a-new-theme2/</link>
       <pubDate>Thu, 24 Aug 2017 13:50:46 +0200</pubDate>
       
@@ -70,9 +56,10 @@ Follow the following steps:
       <pubDate>Wed, 24 Aug 2016 13:50:46 +0200</pubDate>
       
       <guid>https://raindrop-web.github.io/portfolio/content_9/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+      <description>Crazy Beat 모바일 게임 환경 : mobile 기술 : Cocos 2dx , ios, android , nodejs 고객 : app store, 중국 차이나 텔레콤 , 차이나 모바일 , 차이나 유니콤 중국 차이나 텔레콤에 진출한 자체 개발 게임으로 10만이상의 다운로드 기록
+ 인앱 결제 (App store, 구글플레이, 차이나텔레콤) 소셜 연동 자체 서버 순위  중국 버전 이미지
+설명
+인앱결제</description>
     </item>
     
     <item>
@@ -81,30 +68,25 @@ Follow the following steps:
       <pubDate>Wed, 24 Aug 2016 13:50:46 +0200</pubDate>
       
       <guid>https://raindrop-web.github.io/portfolio/content_6_migrate-from-jekyll/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+      <description>Dole Height Chart iOS 환경 : mobile 기술 : swift, icloud 고객 : App Store 가계부가 아닙니다 사람과 사람사이를 연결 하는앱 , 금융앱 다운로드 5위 기록
+일본어
+한국어
+영어
+중국어
+다국어 지원앱
+저장되어있는 정보를 icloud로 저장하고, PDF로 출력 가능합니다.
+** SDK의 기능을 사용한 앱과 게임</description>
     </item>
     
     <item>
       <title>The Iron Fists - iOS/Android Game</title>
       <link>https://raindrop-web.github.io/portfolio/content_8/</link>
-      <pubDate>Wed, 24 Aug 2016 13:50:46 +0200</pubDate>
+      <pubDate>Sun, 24 Aug 2014 13:50:46 +0200</pubDate>
       
       <guid>https://raindrop-web.github.io/portfolio/content_8/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
-    </item>
-    
-    <item>
-      <title>LPR , VMS</title>
-      <link>https://raindrop-web.github.io/portfolio/content_3_go-is-for-lovers/</link>
-      <pubDate>Mon, 24 Aug 2015 13:50:46 +0200</pubDate>
-      
-      <guid>https://raindrop-web.github.io/portfolio/content_3_go-is-for-lovers/</guid>
-      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
-This document is a brief primer on using go templates.</description>
+      <description>The Iron Fists - iOS/Android Game 환경 : mobile 기술 : iOS, Android, cocos2dx 고객 : App Store, google play store 앱스토어/구글플레이 스토에서 출시 했던 액션 타격게임,
+중독성 있는 음악과 타격감이 가득한 액션게임. 5만 이상 다운로드 3가지 캐릭터 인앱 결제 등으로 즐거움이 가득했던 타격게임
+** SDK의 기능을 사용한 앱과 게임</description>
     </item>
     
   </channel>

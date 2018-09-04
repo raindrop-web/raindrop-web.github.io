@@ -6,19 +6,10 @@
     <description>Recent content in Starting on raindrop</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Aug 2018 13:50:46 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2015 13:50:46 +0200</lastBuildDate>
     
 	<atom:link href="https://raindrop-web.github.io/categories/starting/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>과적차량 위반 카메라 시스템 - LPR, VMS</title>
-      <link>https://raindrop-web.github.io/portfolio/content_1_creating-a-new-theme/</link>
-      <pubDate>Fri, 24 Aug 2018 13:50:46 +0200</pubDate>
-      
-      <guid>https://raindrop-web.github.io/portfolio/content_1_creating-a-new-theme/</guid>
-      <description> 과적 차량에 대한 번호 인식 및 VMS 영상녹화 프로그램 환경 : Windows, .net framework, C#, WPR 기술 : OCR, Bosch Camera, LPR 고객 : 국토관리부   </description>
-    </item>
     
     <item>
       <title>Creating a new themeAAA</title>
